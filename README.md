@@ -4,9 +4,9 @@
 
 ## Team Information
 
-| **Name**          | **ID**       | **Role**                        |
-| ----------------- | ------------ | ------------------------------- |
-| Moparthi Aparna   | 700772027    | Principal Investigator, Developer, Author |
+| **Name**          | **ID**       | 
+| ----------------- | ------------ | 
+| Moparthi Aparna   | 700772027    | 
 
 **Course / Institution:** University of Central Missouri – Computer Science
 
