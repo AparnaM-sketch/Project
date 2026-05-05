@@ -8,12 +8,14 @@
 | ----------------- | ------------ | 
 | Moparthi Aparna   | 700772027    | 
 
-**Institution:** University of Central Missouri 
+**Institution:** University of Central Missouri
+
+
 **Course:**  Computer Science
 
 ---
 
-## 📖 Short Introduction
+## 📖 Introduction
 
 Pneumonia is a leading cause of death among children under five and the elderly, especially in low‑resource settings where expert radiologists are scarce. Chest X‑ray (CXR) is the primary diagnostic tool, but manual interpretation is subjective, time‑consuming, and prone to high miss rates (up to 30% even by experienced radiologists).
 
@@ -113,5 +115,5 @@ After training on the new 50/50 split and evaluating on the original test set (6
 ### Option 2: Local Machine (with GPU)
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Pneumonia-Detection-Project.git
+   git clone https://github.com/AparnaM-sketch/Pneumonia-Detection-Project.git
    cd Pneumonia-Detection-Project
