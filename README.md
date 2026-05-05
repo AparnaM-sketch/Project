@@ -8,7 +8,8 @@
 | ----------------- | ------------ | 
 | Moparthi Aparna   | 700772027    | 
 
-**Course / Institution:** University of Central Missouri – Computer Science
+**Institution:** University of Central Missouri 
+**Course:**  Computer Science
 
 ---
 
